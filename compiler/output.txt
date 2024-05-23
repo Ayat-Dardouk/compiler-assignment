@@ -1,0 +1,20 @@
+Keyword, lexeme=Decl
+Keyword, lexeme=Integer
+Identifier, lexeme=Sum
+Operator, lexeme==
+Operator, lexeme=-
+Real_Value, lexeme=50.45
+Separator
+Keyword, lexeme=String
+Identifier, lexeme=Name
+Operator, lexeme==
+String_Value, lexeme='abc'
+Separator
+Keyword, lexeme=If
+Separator
+Identifier, lexeme=sum
+Operator, lexeme=>
+Integer, lexeme=5
+Separator
+Keyword, lexeme=Endif
+Keyword, lexeme=Enddecl

@@ -1,0 +1,7 @@
+Decl
+Integer Sum      = -50.45 ; 
+## ok
+String Name = 'abc' ;
+If ( sum > 5)
+Endif
+Enddecl
